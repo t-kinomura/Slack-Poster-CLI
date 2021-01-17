@@ -1,0 +1,2 @@
+export OAuthAccessToken="xoxp-xxxxxxxxxxxx-xxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+export SlackChannelName="#channle_name"
